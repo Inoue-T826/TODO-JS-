@@ -1,0 +1,59 @@
+body {
+  font-family: sans-serif;
+}
+
+.addspace {
+  background-color: aquamarine;
+  width: 400px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+}
+
+input {
+  padding: 6px 4px;
+  margin: 10px 4px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  margin: 0 4px;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+button:hover {
+  background-color: rgb(8, 82, 57);
+  color: white;
+  cursor: pointer;
+}
+
+.uncomp {
+  margin-top: 30px;
+  width: 400px;
+  min-height: 200px;
+  border: 2px solid rgb(127, 255, 212);
+  border-radius: 8px;
+}
+
+.comp {
+  background-color: rgb(166, 213, 198);
+  margin-top: 30px;
+  width: 400px;
+  min-height: 200px;
+  border: 2px solid rgb(127, 255, 212);
+  border-radius: 8px;
+}
+
+.disp {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+}
