@@ -2,19 +2,6 @@
 簡単なTodoアプリを作成しました。
 主にjavascriptを用いて作成しました。
 
-# 使用技術
-
-このプロジェクトで使用されている技術とそのバージョンは以下の通りです。
-
-- React: 18.3.1
-- React DOM: 18.3.1
-- React Scripts: 5.0.1
-- Testing Library
-  - Jest DOM: 5.17.0
-  - React: 13.4.0
-  - User Event: 13.5.0
-- Web Vitals: 2.1.4
-
 # デモ動画
 
 ![Todo(react)](https://github.com/Inoue-T826/react-practice-app/assets/170819367/90f98091-1658-43f6-8b94-1f85a6276e83)
