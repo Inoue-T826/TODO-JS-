@@ -6,7 +6,7 @@
 
 ![Todo(react)](https://github.com/Inoue-T826/react-practice-app/assets/170819367/90f98091-1658-43f6-8b94-1f85a6276e83)
 
-#機能一覧
+# 機能説明
 
 入力フォームにTODOを入力し、「追加」ボタンを押すと、<br >
 「未完了のTODO」にTODOが「完了」「削除」ボタンとともに追加される。<br >
