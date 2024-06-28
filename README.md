@@ -1,4 +1,4 @@
-# The-View
+# 概要
 簡単なTodoアプリを作成しました。
 主にjavascriptを用いて作成しました。
 
